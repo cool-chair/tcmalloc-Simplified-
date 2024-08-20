@@ -1,0 +1,18 @@
+﻿  Benchmark.cpp
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Benchmark.cpp(47,27): error C4839: 将类 "std::atomic<unsigned int>" 作为可变参数函数的参数的非标准用法
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Benchmark.cpp(47,42): error C2280: “std::atomic<unsigned int>::atomic(const std::atomic<unsigned int> &)”: 尝试引用已删除的函数
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Benchmark.cpp(46,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 4 拥有了类型“std::atomic<unsigned int>”
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Benchmark.cpp(50,27): error C4839: 将类 "std::atomic<unsigned int>" 作为可变参数函数的参数的非标准用法
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Benchmark.cpp(50,40): error C2280: “std::atomic<unsigned int>::atomic(const std::atomic<unsigned int> &)”: 尝试引用已删除的函数
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Benchmark.cpp(49,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 4 拥有了类型“std::atomic<unsigned int>”
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Benchmark.cpp(100,27): error C4839: 将类 "std::atomic<unsigned int>" 作为可变参数函数的参数的非标准用法
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Benchmark.cpp(100,42): error C2280: “std::atomic<unsigned int>::atomic(const std::atomic<unsigned int> &)”: 尝试引用已删除的函数
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Benchmark.cpp(99,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 4 拥有了类型“std::atomic<unsigned int>”
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Benchmark.cpp(103,27): error C4839: 将类 "std::atomic<unsigned int>" 作为可变参数函数的参数的非标准用法
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Benchmark.cpp(103,40): error C2280: “std::atomic<unsigned int>::atomic(const std::atomic<unsigned int> &)”: 尝试引用已删除的函数
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Benchmark.cpp(102,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 4 拥有了类型“std::atomic<unsigned int>”
+  CentralCache.cpp
+  PageCache.cpp
+  PageCache.h
+  test.cpp
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\test.cpp(1,10): error C1083: 无法打开包括文件: “ObjectPool.h”: No such file or directory

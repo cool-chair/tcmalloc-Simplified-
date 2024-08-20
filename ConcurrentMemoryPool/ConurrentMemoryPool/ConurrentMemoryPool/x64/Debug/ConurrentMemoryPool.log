@@ -1,0 +1,38 @@
+﻿  Benchmark.cpp
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Common.h(249,23): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Common.h(289,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Benchmark.cpp(100,27): error C4839: 将类 "std::atomic<unsigned __int64>" 作为可变参数函数的参数的非标准用法
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Benchmark.cpp(100,42): error C2280: “std::atomic<unsigned __int64>::atomic(const std::atomic<unsigned __int64> &)”: 尝试引用已删除的函数
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Benchmark.cpp(99,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Benchmark.cpp(99,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Benchmark.cpp(99,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“size_t”
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Benchmark.cpp(99,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 4 拥有了类型“std::atomic<unsigned __int64>”
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Benchmark.cpp(103,27): error C4839: 将类 "std::atomic<unsigned __int64>" 作为可变参数函数的参数的非标准用法
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Benchmark.cpp(103,40): error C2280: “std::atomic<unsigned __int64>::atomic(const std::atomic<unsigned __int64> &)”: 尝试引用已删除的函数
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Benchmark.cpp(102,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Benchmark.cpp(102,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Benchmark.cpp(102,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“size_t”
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Benchmark.cpp(102,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 4 拥有了类型“std::atomic<unsigned __int64>”
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Benchmark.cpp(105,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Benchmark.cpp(105,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Benchmark.cpp(105,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“_Ty”
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Benchmark.cpp(105,9): warning C4477:         with
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Benchmark.cpp(105,9): warning C4477:         [
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Benchmark.cpp(105,9): warning C4477:             _Ty=unsigned __int64
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Benchmark.cpp(105,9): warning C4477:         ]
+  CentralCache.cpp
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Common.h(249,23): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Common.h(289,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  PageCache.cpp
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Common.h(249,23): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Common.h(289,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  PageCache.h
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Common.h(249,23): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Common.h(289,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  test.cpp
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Common.h(249,23): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Common.h(289,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  ThreadCache.cpp
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Common.h(249,23): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+C:\Users\19390\Desktop\ConcurrentMemoryPool\ConurrentMemoryPool\ConurrentMemoryPool\Common.h(289,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
